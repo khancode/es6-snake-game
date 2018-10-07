@@ -1,7 +1,7 @@
 {
-  "name": "webpack-demo",
+  "name": "es6-snake-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "Snake game implemented using ES6 JavaScript",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,11 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.2.0",
-    "webpack-cli": "^2.0.12",
-    "webpack-dev-server": "^3.1.1"
+    "eslint": "^5.6.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
   },
-  "dependencies": {
-    "lodash": "^4.17.5"
-  }
+  "dependencies": {}
 }
